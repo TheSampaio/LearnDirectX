@@ -1,0 +1,10 @@
+# Directories
+.vs/
+.vscode/
+
+x64/
+Debug/
+Release/
+
+# Files
+*.user
